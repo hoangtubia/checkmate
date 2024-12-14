@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/license/bluewave-labs/bluewave-uptime)
 ![](https://img.shields.io/github/repo-size/bluewave-labs/bluewave-uptime)
 ![](https://img.shields.io/github/commit-activity/w/bluewave-labs/bluewave-uptime)
-![](https://img.shields.io/github/last-commit/bluewave-labs/bluewave-uptime)
+![](https://img.shields.io/github/last-commit/bluewave-labs/bluewave-uptime)sd
 ![](https://img.shields.io/github/languages/top/bluewave-labs/bluewave-uptime)
 ![](https://img.shields.io/github/issues-pr/bluewave-labs/bluewave-uptime)
 ![](https://img.shields.io/github/issues/bluewave-labs/bluewave-uptime)
